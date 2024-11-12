@@ -18,7 +18,7 @@ jobs:
         run: |
           git config user.name ernstchristian1202
           git config user.email ernstchristia@gmail.com
-          git remote set-url origin https://x-access-token:${{ secrets.TOKEN }}@github.com/Ruhan-Popo/Ruhan-Popo.git
+          git remote set-url origin https://x-access-token:${{ secrets.TOKEN }}@github.com/ernstchristian1202/ernstchristian1202.git
           git add -A .
           if git commit -m "generated"; then
             git push

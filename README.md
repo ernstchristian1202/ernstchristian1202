@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src="./profile-3d-contrib/profile-green-animate.svg"/>
+
 <!--
 **ernstchristian1202/ernstchristian1202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
